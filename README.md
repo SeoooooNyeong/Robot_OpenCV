@@ -21,8 +21,6 @@
 
 ## **개요**
 - ✏️**프로젝트 주제**✏️ : 로봇 통신 및 OpenCV
-  
-<img src = "https://github.com/SeoooooNyeong/LSTM_AI_Model/assets/113419106/85af91c5-31c3-4c85-a4e2-2f7a3d6e3b5a" width="400px">
 
 - 📆**프로젝트 지속기간**📆 : 2023.07.18~2023.07.21
   
