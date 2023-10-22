@@ -50,7 +50,7 @@
 
 - This is the main application source file that contains the application class CSSProApp.
 
-## **SSPro.rc*
+## **SSPro.rc**
 - This is a listing of all of the Microsoft Windows resources that the program uses.
 - It includes the icons, bitmaps, and cursors that are stored in the RES subdirectory.
 - This file can be directly edited in Microsoft Visual C++. Your project resources are in 1033.
