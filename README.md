@@ -41,7 +41,7 @@
 - It contains information about the assciation between the files in your project and the filters.
 - This association is used in the IDE to show grouping of files with similar extensions under a specific node
 
-##**SSPro.h**
+## **SSPro.h**
 
 - This is the main header file for the application.
 - It includes other project specific headers (including Resource.h) and declares the CSSProApp application class.
